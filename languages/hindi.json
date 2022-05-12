@@ -1,0 +1,21 @@
+{
+    "translation": {
+      "Air Temperature": "हवा का तापमान",
+      "Air Humidity": "हवा में नमीं",
+      "Data Analysis": "डेटा विश्लेषण",
+      "Hey Yo Im at home": "Hey Yo Im at home",
+      "Home": "घर",
+      "Press for Information": "जानकारी के लिए दबाएं",
+      "Soil Moisture": "मिट्टी की नमी",
+      "Settings": "समायोजन",
+      "welcome": "तुम किस दुर्दशा में हो ?",
+
+      "Wheat Crop requires a moisture content of around 20%, so we suggest you irrigate your field!": "गेहूं की फसल को लगभग 20% नमी की आवश्यकता होती है, इसलिए हमारा सुझाव है कि आप अपने खेत की सिंचाई करें!",
+      "Wheat Crop only requires a moisture content of around 20%,so we suggest you stop irrigation for a while!": "गेहूं की फसल को केवल 20% नमी की आवश्यकता होती है, इसलिए हमारा सुझाव है कि आप कुछ समय के लिए सिंचाई बंद कर दें!",
+      "Wheat Crop is best suited to grow in temperatures of around 25 degrees, so your crop productivity will be limited!": "गेहूं की फसल लगभग 25 डिग्री के तापमान में बढ़ने के लिए सबसे उपयुक्त है, इसलिए आपकी फसल की उत्पादकता सीमित होगी!",
+      "Wheat Crop is best suited to grow in temperatures of around 25 degrees, so your crop productivity is at its best!": "गेहूं की फसल लगभग 25 डिग्री के तापमान में बढ़ने के लिए सबसे उपयुक्त है, इसलिए आपकी फसल की उत्पादकता सबसे अच्छी है!",
+      "Crop is best suited to grow in Mositure of around 10, so your crop productivity is at its best!": "फसल लगभग 10 की नमी में उगाने के लिए सबसे उपयुक्त है, इसलिए आपकी फसल की उत्पादकता अपने सर्वोत्तम स्तर पर है!",
+      "Analysis Page": "विश्लेषण पृष्ठ"
+    }
+}
+ 

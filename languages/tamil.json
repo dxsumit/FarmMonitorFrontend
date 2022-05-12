@@ -1,0 +1,20 @@
+{
+    "translation": {
+        "Air Temperature": "காற்று வெப்பநிலை",
+        "Air Humidity": "காற்று ஈரப்பதம்",
+        "Data Analysis": "தரவு பகுப்பாய்வு",
+        "Hey Yo Im at home": "Hey Yo Im at home",
+        "Soil Moisture": "மண்ணின் ஈரப்பதம்",
+        "Home": "வீடு",
+        "Press for Information": "தகவலுக்கு அழுத்தவும்",
+        "Settings": "அமைப்புகள்",
+        "welcome": "நீங்கள் எப்படி இருக்கிறீர்கள் ?",
+
+        "Wheat Crop requires a moisture content of around 20%, so we suggest you irrigate your field!": "கோதுமை பயிருக்கு சுமார் 20% ஈரப்பதம் தேவைப்படுகிறது, எனவே உங்கள் வயலுக்கு நீர்ப்பாசனம் செய்ய பரிந்துரைக்கிறோம்!",
+        "Wheat Crop only requires a moisture content of around 20%,so we suggest you stop irrigation for a while!": "கோதுமை பயிருக்கு 20% ஈரப்பதம் மட்டுமே தேவை, எனவே சிறிது காலத்திற்கு நீர்ப்பாசனத்தை நிறுத்துமாறு பரிந்துரைக்கிறோம்!",
+        "Wheat Crop is best suited to grow in temperatures of around 25 degrees, so your crop productivity will be limited!": "கோதுமை பயிர் சுமார் 25 டிகிரி வெப்பநிலையில் வளர மிகவும் பொருத்தமானது, எனவே உங்கள் பயிர் உற்பத்தித்திறன் குறைவாக இருக்கும்!",
+        "Wheat Crop is best suited to grow in temperatures of around 25 degrees, so your crop productivity is at its best!": "கோதுமை பயிர் சுமார் 25 டிகிரி வெப்பநிலையில் வளர மிகவும் பொருத்தமானது, எனவே உங்கள் பயிர் உற்பத்தித்திறன் சிறந்தது!",
+        "Crop is best suited to grow in Mositure of around 10, so your crop productivity is at its best!": "பயிர் சுமார் 10 ஈரப்பதத்தில் வளர மிகவும் பொருத்தமானது, எனவே உங்கள் பயிர் உற்பத்தித்திறன் மிகச் சிறப்பாக உள்ளது!",
+        "Analysis Page": "பகுப்பாய்வு பக்கம்"
+    }
+}

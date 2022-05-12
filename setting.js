@@ -10,7 +10,7 @@ class SettingPage extends React.Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text style={styles.biggerText}> This is Settings page !!! </Text>
+                <Text style={styles.biggerText}> Settings Page Coming Soon !!! </Text>
             </View>
         )
     }

@@ -1,0 +1,154 @@
+{
+  "readings": {
+    "1650486813": {
+      "humidity": "71.00",
+      "temperature": "21.30",
+      "timestamp": "1650486813"
+    },
+    "1650486997": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650486997"
+    },
+    "1650487000": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487000"
+    },
+    "1650487002": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487002"
+    },
+    "1650487004": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487004"
+    },
+    "1650487006": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487006"
+    },
+    "1650487008": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487008"
+    },
+    "1650487010": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487010"
+    },
+    "1650487012": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487012"
+    },
+    "1650487014": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487014"
+    },
+    "1650487016": {
+      "humidity": "60.00",
+      "temperature": "31.30",
+      "timestamp": "1650487016"
+    },
+    "1650487018": {
+      "humidity": "41.00",
+      "temperature": "31.30",
+      "timestamp": "1650487018"
+    },
+    "1650487020": {
+      "humidity": "71.00",
+      "temperature": "18.30",
+      "timestamp": "1650487020"
+    },
+    "1650487022": {
+      "humidity": "76.00",   
+      "temperature": "31.30",
+      "timestamp": "1650487022"
+    },
+    "1650487024": {
+      "humidity": "71.00",
+      "temperature": "31.30",
+      "timestamp": "1650487024"
+    },
+    "1650487026": {
+      "humidity": "51.00",
+      "temperature": "33.30",
+      "timestamp": "1650487026"
+    },
+    "1650487028": {
+      "humidity": "71.00",
+      "temperature": "11.30",
+      "timestamp": "1650487028"
+    },
+    "1650487559": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487559"
+    },
+    "1650487562": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487562"
+    },
+    "1650487564": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487564"
+    },
+    "1650487566": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487566"
+    },
+    "1650487570": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487570"
+    },
+    "1650487575": {
+      "humidity": "54",
+      "temperature": "nan",
+      "timestamp": "1650487575"
+    },
+    "1650487579": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487579"
+    },
+    "1650487584": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487584"
+    },
+    "1650487590": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487590"
+    },
+    "1650487597": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487597"
+    },
+    "1650487600": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487600"
+    },
+    "1650487602": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487602"
+    },
+    "1650487604": {
+      "humidity": "nan",
+      "temperature": "nan",
+      "timestamp": "1650487604"
+    }
+  }
+}
